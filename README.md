@@ -2,9 +2,9 @@
 - 👀 I’m interested in ... passing this class
 - 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...projects
-- 📫 How to reach me ...email
+- 📫 How to reach me ...limeisgreen10@gmail.com
 - 😄 Pronouns: ... It's me, Jessica. 
-- ⚡ Fun fact: ... I dont know a thing ab
+- ⚡ Fun fact: ... When you turn 30, you'll have lived for little over a billion seconds
 
 <!---
 Jess715/Jess715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
